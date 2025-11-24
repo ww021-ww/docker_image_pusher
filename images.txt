@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 grobid/grobid:0.7.3
-grobid/grobid:0.7.3-arm
+--platform=linux/arm64 grobid/grobid:0.7.3-arm
